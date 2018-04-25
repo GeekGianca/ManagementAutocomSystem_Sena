@@ -1,0 +1,17 @@
+.view_content{
+    -fx-background-position:center;
+    -fx-background-repeat: no-repeat;
+}
+.buttons
+{
+    -fx-cursor-color:rgb(131, 4, 216);
+    -fx-text-fill:#000000;
+}
+.buttons:hover
+{
+    -fx-background-color:#000000;
+    -fx-text-fill:#000000;
+    -fx-border-color:#6A1B9A;
+    -fx-border-style: solid;
+    -fx-border-width:1px;
+}
